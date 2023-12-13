@@ -1,8 +1,8 @@
 {
-  "name": "wallet-application",
-  "version": "0.1.0",
+  "name": "wallet",
+  "version": "1.0.0",
   "private": true,
-  "homepage": "https://kingamiko.github.io/wallet-application/",
+  "homepage": "https://gregorjosh.github.io/wallet/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.16.3",
